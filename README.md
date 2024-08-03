@@ -1,0 +1,2 @@
+# Description
+I developed a dynamic digital clock using React.js, showcasing my skills in state management, lifecycle methods, and component-based architecture. The clock updates every second to display the current time in a user-friendly interface, utilizing React's useState and useEffect hooks for real-time functionality. This project demonstrates my ability to create interactive and visually appealing web applications with React.
